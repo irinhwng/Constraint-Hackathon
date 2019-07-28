@@ -1,6 +1,6 @@
 Slides: https://docs.google.com/presentation/d/1SpD1ySA8_fbrtzKZG4D1j4vtduBDNeT0NLZdanIxVek/edit#slide=id.g5d3e00cfa0_0_37
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Data Science Venn Diagram
+# Data Science Venn Diagram
 
 The goal is to create the best performing model on a hold-out sample of data. The task is to predict if a person's income is in excess of $50,000 given certain profile information, and more specifically to generate predicted probabilities of income being **above** $50,000 for each row in the test set. This will simply be a csv with a single column of the probability  **_with 'wage' as a header_**.
 
